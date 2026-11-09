@@ -28,6 +28,12 @@ Baseado no procedimento prático documentado em:
 5. **[`instructions.md`](./instructions.md)**
    - Planejamento slide a slide, controle de tempo, referências técnicas, checklist de bancada, cheat sheet de comandos ADB/VHAL para Live Demo e guia de Q&A técnico.
 
+6. **[`BUILD_GUIDE.md`](./BUILD_GUIDE.md)**
+   - Guia técnico passo a passo de replicação do ambiente, download do AOSP Android 16 + `local_manifests` da Raspberry Pi 5, compilação (`lunch aosp_rpi5_car-bp1a-userdebug`), gravação e comandos de diagnóstico VHAL.
+
+7. **[`STUDY_GUIDE.md`](./STUDY_GUIDE.md)**
+   - Material de estudo completo com explicações conceituais e técnicas aprofundadas sobre cada tópico e slide da apresentação (arquitetura Treble/AIDL, estrutura hexadecimal do `VehicleProperty`, funcionamento do `VHAL`, `local_manifests`, `Soong/Ninja`, Boot Flow na RPi 5 e glossário de siglas).
+
 ---
 
 ## 🎯 Estrutura da Apresentação (45 minutos)
